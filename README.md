@@ -1,13 +1,28 @@
-# Insira aqui o nome do exercício
+# JurosSimples
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
+* 🖥️ Exercício: Números e operadores (12) - JurosSimples
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/numeros-operadores.md
   
-## Enunciado
-  
-Insira aqui a descrição do exercício
+## Exercício `JurosSimples`
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Calcule o montante final de um investimento a juros simples.
+
+j = c . i . t
+
+m = c + j
+
+```c
+Juros simples (j)
+
+Capital [c] (R$).......: 1200,00
+Taxa de juros [i] (%)..: 2
+Tempo [t] (meses)......: 15
+
+Juros (R$).....: 360,00
+Montante (R$)..: 1560,00
+```
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
